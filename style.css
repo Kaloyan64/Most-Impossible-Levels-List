@@ -1,0 +1,41 @@
+main{
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    font-family: 'Courier New', Courier, monospace;
+}
+.Retray{
+    color: rgb(0, 255, 13)
+}
+.Retray-creator{
+    color: rgb(0, 219, 95)
+
+}
+.SERMAD{
+    color: rgb(0, 115, 255)
+}
+.GD-creator{
+    color: rgb(255, 217, 0)
+}
+.CNG{
+    color: rgb(249, 54, 86)
+}
+.DROT{
+    color: #ffc400; 
+
+}
+.rank{
+    font-size: 40px
+}
+.CYCLOLCYC{
+    color: rgb(5, 5, 170)
+}
+.CYCLOLCYC-creator{
+    color: rgb(5, 5, 170)
+}
+.Ton618{
+    color: rgb(75, 75, 75)
+}
+.Ton618-creator{
+    color: rgb(75, 75, 75)
+}
